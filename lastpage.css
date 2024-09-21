@@ -1,0 +1,85 @@
+.lastpage{
+    margin-top: 70px;
+    width: 100%;
+    height: 60vh;
+    background-color: black;
+    display: flex;
+}
+.colummm1{
+    width: 30%;
+    height: 100%;
+    /* background-color: aqua; */
+}
+.colummm1 img{
+    margin-top: 20px;
+    padding: 20px;
+    width: 150px;
+    height: 100px;
+}
+.colummm1 h6{
+    color: rgb(140, 142, 143);
+    padding-left: 20px;
+}
+.colummm1 h4{
+    color: aliceblue;
+    padding-left: 20px;
+}
+.colummm1 h5{
+    color: rgb(140, 142, 143);
+    padding-left: 20px;
+}
+.colummm1 ul{
+    list-style-type: none;
+}
+.colummm1 li{
+    float: left;
+    padding: 17px;
+}
+.colummm1 li a{
+    color: rgb(140, 142, 143);
+    text-decoration: none;
+    transition: 0.5s ease-in-out;
+}
+.colummm1 a:hover{
+    color: rgb(234, 15, 15);
+}
+.colummm2{
+    width: 40%;
+    height: 100%;
+    /* background-color: rgb(191, 255, 0); */
+}
+.colummm2 h2{
+    margin-top: 20px;
+    padding: 20px;
+    color: rgb(140, 142, 143);
+}
+.colummm2 h5{
+    margin-top: 10px;
+    padding: 20px;
+    color: rgb(140, 142, 143);
+}
+.colummm2 h4{
+    margin-top: 5px;
+    margin-left: 20px;
+    /* padding: 20px; */
+    color: rgb(140, 142, 143);
+}
+.colummm2 a{
+    color: rgb(140, 142, 143);
+    text-decoration: none;
+    transition: 0.5 ease-in-out;
+}
+.colummm2 a:hover{
+    color: blanchedalmond;
+}
+.colummm2 img{
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 80%;
+    height: 40px;
+}
+.colummm3{
+    width: 30%;
+    height: 100%;
+    /* background-color: rgb(0, 64, 255); */
+}
